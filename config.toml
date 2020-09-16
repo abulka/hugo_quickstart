@@ -1,4 +1,4 @@
-baseURL = "https://github.com/abulka/hugo_quickstart"
+baseURL = "https://abulka.github.io/hugo_quickstart/"
 languageCode = "en-us"
 title = "Andy's New Hugo Site"
 theme = "ananke"

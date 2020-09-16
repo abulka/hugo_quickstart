@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/abulka/hugo_quickstart/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/</loc>
     <lastmod>2020-09-16T11:38:42+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/abulka/hugo_quickstart/posts/my-first-post/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/posts/my-first-post/</loc>
     <lastmod>2020-09-16T11:38:42+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/abulka/hugo_quickstart/posts/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/posts/</loc>
     <lastmod>2020-09-16T11:38:42+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/abulka/hugo_quickstart/categories/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/categories/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/abulka/hugo_quickstart/tags/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/tags/</loc>
   </url>
   
 </urlset>
