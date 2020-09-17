@@ -1,5 +1,5 @@
 baseURL = "https://abulka.github.io/hugo_quickstart/"
 languageCode = "en-us"
 title = "Andy's New Hugo Site"
-theme = "ananke"
+theme = "toha"
 publishDir = "docs"
