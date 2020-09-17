@@ -1,8 +1,8 @@
 baseURL: "https://abulka.github.io/hugo_quickstart/"
 # relativeURLs: true
 languageCode: en-us
-title: "Andy Toha"
-theme: "toha"
+title: "Andy ananke"
+theme: "ananke"
 publishDir: "docs"
 
 # Allow raw html in markdown file
