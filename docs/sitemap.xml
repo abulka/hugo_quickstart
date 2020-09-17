@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://abulka.github.io/hugo_quickstart/</loc>
-  </url>
+  <sitemap>
+    <loc>https://abulka.github.io/hugo_quickstart/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://abulka.github.io/hugo_quickstart/other/best-band-ever/</loc>
-  </url>
+  <sitemap>
+    <loc>https://abulka.github.io/hugo_quickstart/ko/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://abulka.github.io/hugo_quickstart/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://abulka.github.io/hugo_quickstart/other/</loc>
-  </url>
-  
-  <url>
-    <loc>https://abulka.github.io/hugo_quickstart/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

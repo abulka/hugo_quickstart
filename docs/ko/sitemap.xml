@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://abulka.github.io/hugo_quickstart/ko/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abulka.github.io/hugo_quickstart/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://abulka.github.io/hugo_quickstart/ko/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://abulka.github.io/hugo_quickstart/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abulka.github.io/hugo_quickstart/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://abulka.github.io/hugo_quickstart/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://abulka.github.io/hugo_quickstart/ko/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abulka.github.io/hugo_quickstart/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://abulka.github.io/hugo_quickstart/ko/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://abulka.github.io/hugo_quickstart/ko/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abulka.github.io/hugo_quickstart/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://abulka.github.io/hugo_quickstart/ko/tags/"
+                />
+  </url>
+  
+</urlset>
