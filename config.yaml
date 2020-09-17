@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://abulka.github.io/hugo_quickstart/
 languageCode: en-us
 title: "Andy Toha"
 theme: "toha"
