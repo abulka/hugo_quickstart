@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/</loc>
   </url>
   
   <url>
-    <loc>/other/best-band-ever/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/other/best-band-ever/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/categories/</loc>
   </url>
   
   <url>
-    <loc>/other/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/other/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://abulka.github.io/hugo_quickstart/tags/</loc>
   </url>
   
 </urlset>

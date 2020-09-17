@@ -1,5 +1,5 @@
-# baseURL: "https://abulka.github.io/hugo_quickstart/"
-relativeURLs: true
+baseURL: "https://abulka.github.io/hugo_quickstart/"
+# relativeURLs: true
 languageCode: en-us
 title: "Andy Toha"
 theme: "toha"
