@@ -2,6 +2,7 @@ baseURL: http://example.org/
 languageCode: en-us
 title: "Andy Toha"
 theme: "toha"
+publishDir: "docs"
 
 # Allow raw html in markdown file
 markup:
